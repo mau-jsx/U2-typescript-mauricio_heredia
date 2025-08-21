@@ -1,1 +1,0 @@
-# U2-typescript-mauricio_heredia
